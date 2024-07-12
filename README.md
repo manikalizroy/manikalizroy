@@ -1,5 +1,5 @@
 
-<img src="./background/octocat-walk.gif" width="50%" height="50" alt="Hello There!"/>
+<img src="./background/octocat-walk.gif" width="50%" height="auto" alt="Hello There!"/>
 
 
 
