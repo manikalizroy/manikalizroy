@@ -14,11 +14,12 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+
 
 <h2 align="left"></h2>
 
 <div align="left">
+  <h2 align="left">Tech Stack</h2>
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
