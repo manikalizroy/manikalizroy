@@ -16,10 +16,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-###
 <h2 align="left"></h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
