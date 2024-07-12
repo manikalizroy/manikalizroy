@@ -1,4 +1,6 @@
-<img align="centre" src="./background/octocat-walk.gif" width="50%" height="auto" alt="Hello There!"/>
+<div class="center-gif">
+    <img src="./background/octocat-walk.gif" width="50%" height="auto" alt="Hello There!"/>
+</div>
 
 
 
