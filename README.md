@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on HTmL, CSS, JavaScript<br>🌱 I’m currently learning Full Stack Web Development<br>👯 I’m looking to collaborate on some exciting projects<br>🤔 I’m looking for help with full stack development<br>💬 Ask me about C, Java</p>
+<p align="left">🔭 I’m currently working on HTML, CSS, JavaScript<br>🌱 I’m currently learning Full Stack Web Development<br>👯 I’m looking to collaborate on some exciting projects<br>🤔 I’m looking for help with full stack development<br>💬 Ask me about C, Java</p>
 
 ###
 
