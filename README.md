@@ -1,8 +1,6 @@
 
 <img src="./background/octocat-walk.gif" width="50%" height="auto" alt="Hello There!"/>
 
-
-
 <h1 align="left"> Hey There👋 </h1>
 
 ###
