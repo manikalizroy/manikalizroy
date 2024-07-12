@@ -1,7 +1,8 @@
-<img src="./bacground/octocat-walk.gif" width="100%" height="auto" alt="Hello There!"/>
+<img src="./background/octocat-walk.gif" width="100%" height="auto" alt="Hello There!"/>
 
 
-!-<h1 align="left"> Hey There👋 </h1>
+
+<h1 align="left"> Hey There👋 </h1>
 
 ###
 
