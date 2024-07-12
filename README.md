@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Manika Elizabeth Roy and I'm an aspiring budding young engineer currently pursuing a BTech degree in Computer Science with a passion for full stack web development</h2>
 
 ###
 
