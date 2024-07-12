@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey There👋/h1>
 
 ###
 
@@ -51,25 +51,4 @@
 
 ###
 
-<div align="left">
-</div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
